@@ -1,6 +1,6 @@
-# Boilerplate Card by [@iantrich](https://www.github.com/iantrich)
+# Boilerplate Card by [@trollix](https://www.github.com/trollix)
 
-A community driven boilerplate of best practices for Home Assistant Lovelace custom cards
+A simple POC of Home Assistant Lovelace custom cards
 
 [![GitHub Release][releases-shield]][releases]
 [![License][license-shield]](LICENSE.md)

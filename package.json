@@ -11,8 +11,8 @@
     "custom-cards"
   ],
   "module": "boilerplate-card.js",
-  "repository": "git@github.com:custom_cards/boilerplate-card.git",
-  "author": "Ian Richardson <iantrich@gmail.com>",
+  "repository": "git@github.com:trollix/boilerplate-card.git",
+  "author": "Trollix <trollix@gmail.com>",
   "license": "MIT",
   "dependencies": {
     "@lit-labs/scoped-registry-mixin": "^1.0.0",
